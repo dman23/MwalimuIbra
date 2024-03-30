@@ -1,0 +1,33 @@
+body {
+    height: 100%;
+}
+
+.up-footer {
+    display: block;
+    width: 100%;
+    background-color: brown;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    font-size: large;
+}
+
+.down-footer {
+    display: block;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    font-size: small;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
